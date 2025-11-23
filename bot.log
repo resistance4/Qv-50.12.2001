@@ -1,0 +1,19 @@
+[dotenv@17.2.2] injecting env (0) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+[dotenv@17.2.2] injecting env (0) from .env -- tip: ⚙️  override existing env vars with { override: true }
+Logged in as .gg/scriptspace.in#5279!
+🛡️ GOD-LEVEL PROTECTION SYSTEM INITIALIZING...
+🔄 Clearing guild-level commands (they override global commands)...
+(node:4571) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+✅ Cleared guild-level commands from 1 guilds
+📝 Registering commands globally...
+✅ Successfully registered 99 application (/) commands globally!
+💡 Commands are now visible in all servers!
+✅ Role Manager initialized
+✅ Channel Manager initialized
+✅ Media & Threads Manager initialized
+✅ Utility Manager initialized
+✅ Security Manager initialized
+✅ Ticket Manager initialized
+✅ Slash Command Handler initialized
+✅ Bot status set: Watching scriptspace Made by script.agi
