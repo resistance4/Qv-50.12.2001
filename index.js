@@ -7377,9 +7377,9 @@ client.once('ready', async () => {
 
     // Rotating server nicknames - matching the status texts exactly
     const serverNicknames = [
-        '.gg/scriptspace.in | secured',
-        '.gg/scriptspace.in | armed',
-        '.gg/scriptspace.in | by script'
+        '.gg/Lazarus | secured',
+        '.gg/Lazarus | armed',
+        '.gg/Lazarus | by script'
     ];
     let currentNicknameIndex = 0;
 
