@@ -3430,10 +3430,10 @@ function createHelpCard1() {
             `✿ **Temp Durations:** 1h, 2h, 4h, 8h, 12h, 1d, 2d, 3d, 1w`
         )
         .setThumbnail(client.user.displayAvatarURL({ dynamic: true, size: 256 }))
-        .setImage('https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&')
+        .setImage('https://cdn.discordapp.com/attachments/1438520973300338871/1448547327391301812/9txn4scpknrmc0cv0hyrw1bnsg_result_-ezgif.com-optimize.gif?ex=693ba853&is=693a56d3&hm=b1c7a86e8ca4661bb40b26a1d17733d2e71426c6fd66d4df47bd287ef0542ac2&')
         .setFooter({
             text: 'Card 1/18 • Extra Owner System',
-            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&'
+            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
         })
         .setTimestamp();
 
