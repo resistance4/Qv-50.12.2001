@@ -6,7 +6,7 @@ const path = require('path');
 class AcknowledgementService {
     constructor() {
         // CDN image URL for all acknowledgement messages
-        this.imageURL = 'https://cdn.discordapp.com/attachments/1438520973300338871/1439502581876396103/e1ab3df2-ecb1-4575-8cdb-9faffa77fd29_removalai_preview.png?ex=691ac0c0&is=69196f40&hm=d503106f121b7cb2cc588c9338b8aa9934532aabe4c4814cb56137b27971e3d6&';
+        this.imageURL = 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&';
         // Unban acknowledgement channel ID - Logs channel
         this.UNBAN_ACK_CHANNEL = '1378464794499092581';
     }
