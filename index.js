@@ -3448,7 +3448,7 @@ function createHelpCard2() {
         .setColor('#C8A2C8')
         .setAuthor({
             name: 'Quarantianizo made at discord.gg/scriptspace by script.agi',
-            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&'
+            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
         })
         .setTitle('✗ 𖹭 **Quarantine & Basic Moderation**')
         .setDescription(`**Total Commands:** ${totalCommands} • **Owner/Admin Channel Only**\n\n` +
@@ -3467,10 +3467,10 @@ function createHelpCard2() {
             `➺ \`slowmode <seconds>\` - Set channel slowmode`
         )
         .setThumbnail(client.user.displayAvatarURL({ dynamic: true, size: 256 }))
-        .setImage('https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&')
+        .setImage('https://cdn.discordapp.com/attachments/1438520973300338871/1448547327391301812/9txn4scpknrmc0cv0hyrw1bnsg_result_-ezgif.com-optimize.gif?ex=693ba853&is=693a56d3&hm=b1c7a86e8ca4661bb40b26a1d17733d2e71426c6fd66d4df47bd287ef0542ac2&')
         .setFooter({
             text: 'Card 2/18 • Quarantine & Basic Moderation',
-            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&'
+            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
         })
         .setTimestamp();
 
@@ -3485,7 +3485,7 @@ function createHelpCard3() {
         .setColor('#C8A2C8')
         .setAuthor({
             name: 'Quarantianizo made at discord.gg/scriptspace by script.agi',
-            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&'
+            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
         })
         .setTitle('✗ 𖹭 **Basic Role & Music Configuration**')
         .setDescription(`**Total Commands:** ${totalCommands} • **Owner/Admin Channel Only**\n\n` +
@@ -3499,10 +3499,10 @@ function createHelpCard3() {
             `➺ \`sethomevc #voice\` - Set default home voice channel`
         )
         .setThumbnail(client.user.displayAvatarURL({ dynamic: true, size: 256 }))
-        .setImage('https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&')
+        .setImage('https://cdn.discordapp.com/attachments/1438520973300338871/1448547327391301812/9txn4scpknrmc0cv0hyrw1bnsg_result_-ezgif.com-optimize.gif?ex=693ba853&is=693a56d3&hm=b1c7a86e8ca4661bb40b26a1d17733d2e71426c6fd66d4df47bd287ef0542ac2&')
         .setFooter({
             text: 'Card 3/18 • Basic Role & Music',
-            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&'
+            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
         })
         .setTimestamp();
 
@@ -3517,7 +3517,7 @@ function createHelpCard4() {
         .setColor('#C8A2C8')
         .setAuthor({
             name: 'Quarantianizo made at discord.gg/scriptspace by script.agi',
-            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&'
+            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
         })
         .setTitle('✗ 𖹭 **Advanced Role Management**')
         .setDescription(`**Total Commands:** ${totalCommands} • **Owner/Admin Channel Only**\n\n` +
@@ -3531,10 +3531,10 @@ function createHelpCard4() {
             `➺ \`roleall @role1 @role2\` - Give role2 to all with role1`
         )
         .setThumbnail(client.user.displayAvatarURL({ dynamic: true, size: 256 }))
-        .setImage('https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&')
+        .setImage('https://cdn.discordapp.com/attachments/1438520973300338871/1448547327391301812/9txn4scpknrmc0cv0hyrw1bnsg_result_-ezgif.com-optimize.gif?ex=693ba853&is=693a56d3&hm=b1c7a86e8ca4661bb40b26a1d17733d2e71426c6fd66d4df47bd287ef0542ac2&')
         .setFooter({
             text: 'Card 4/18 • Advanced Role Management',
-            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&'
+            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
         })
         .setTimestamp();
 
@@ -3549,7 +3549,7 @@ function createHelpCard5() {
         .setColor('#C8A2C8')
         .setAuthor({
             name: 'Quarantianizo made at discord.gg/scriptspace by script.agi',
-            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&'
+            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
         })
         .setTitle('✗ 𖹭 **Interim Role & Widget Management**')
         .setDescription(`**Total Commands:** ${totalCommands} • **Owner/Admin Channel Only**\n\n` +
@@ -3569,10 +3569,10 @@ function createHelpCard5() {
             `➺ \`optr @user\` - Restore interim channel access`
         )
         .setThumbnail(client.user.displayAvatarURL({ dynamic: true, size: 256 }))
-        .setImage('https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&')
+        .setImage('https://cdn.discordapp.com/attachments/1438520973300338871/1448547327391301812/9txn4scpknrmc0cv0hyrw1bnsg_result_-ezgif.com-optimize.gif?ex=693ba853&is=693a56d3&hm=b1c7a86e8ca4661bb40b26a1d17733d2e71426c6fd66d4df47bd287ef0542ac2&')
         .setFooter({
             text: 'Card 5/18 • Interim Role & Widget',
-            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&'
+            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
         })
         .setTimestamp();
 
@@ -3587,7 +3587,7 @@ function createHelpCard6() {
         .setColor('#C8A2C8')
         .setAuthor({
             name: 'Quarantianizo made at discord.gg/scriptspace by script.agi',
-            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&'
+            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
         })
         .setTitle('✗ 𖹭 **Emergency Commands**')
         .setDescription(`**Total Commands:** ${totalCommands} • **Owner/Admin Channel Only**\n\n` +
@@ -3612,10 +3612,10 @@ function createHelpCard6() {
             `• WhatsApp alerts notify of all emergency actions`
         )
         .setThumbnail(client.user.displayAvatarURL({ dynamic: true, size: 256 }))
-        .setImage('https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&')
+        .setImage('https://cdn.discordapp.com/attachments/1438520973300338871/1448547327391301812/9txn4scpknrmc0cv0hyrw1bnsg_result_-ezgif.com-optimize.gif?ex=693ba853&is=693a56d3&hm=b1c7a86e8ca4661bb40b26a1d17733d2e71426c6fd66d4df47bd287ef0542ac2&')
         .setFooter({
             text: 'Card 6/11 • Emergency Commands',
-            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&'
+            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
         })
         .setTimestamp();
 
@@ -3630,7 +3630,7 @@ function createHelpCard7() {
         .setColor('#C8A2C8')
         .setAuthor({
             name: 'Quarantianizo made at discord.gg/scriptspace by script.agi',
-            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&'
+            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
         })
         .setTitle('✗ 𖹭 **Configuration & Testing**')
         .setDescription(`**Total Commands:** ${totalCommands} • **Owner/Admin Channel Only**\n\n` +
@@ -3658,10 +3658,10 @@ function createHelpCard7() {
             `\`setinterimrole @Interim\``
         )
         .setThumbnail(client.user.displayAvatarURL({ dynamic: true, size: 256 }))
-        .setImage('https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&')
+        .setImage('https://cdn.discordapp.com/attachments/1438520973300338871/1448547327391301812/9txn4scpknrmc0cv0hyrw1bnsg_result_-ezgif.com-optimize.gif?ex=693ba853&is=693a56d3&hm=b1c7a86e8ca4661bb40b26a1d17733d2e71426c6fd66d4df47bd287ef0542ac2&')
         .setFooter({
             text: 'Card 7/11 • Configuration & Testing',
-            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&'
+            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
         })
         .setTimestamp();
 
@@ -3676,7 +3676,7 @@ function createHelpCard8() {
         .setColor('#C8A2C8')
         .setAuthor({
             name: 'Quarantianizo made at discord.gg/scriptspace by script.agi',
-            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&'
+            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
         })
         .setTitle('✗ 𖹭 **God-Level Protection Features**')
         .setDescription(`**Total Commands:** ${totalCommands} • **Owner/Admin Channel Only**\n\n` +
@@ -3705,10 +3705,10 @@ function createHelpCard8() {
             `• 1000% server security guaranteed`
         )
         .setThumbnail(client.user.displayAvatarURL({ dynamic: true, size: 256 }))
-        .setImage('https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&')
+        .setImage('https://cdn.discordapp.com/attachments/1438520973300338871/1448547327391301812/9txn4scpknrmc0cv0hyrw1bnsg_result_-ezgif.com-optimize.gif?ex=693ba853&is=693a56d3&hm=b1c7a86e8ca4661bb40b26a1d17733d2e71426c6fd66d4df47bd287ef0542ac2&')
         .setFooter({
             text: 'Card 8/11 • God-Level Protection Features',
-            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&'
+            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
         })
         .setTimestamp();
 
@@ -3723,7 +3723,7 @@ function createHelpCard9() {
         .setColor('#C8A2C8')
         .setAuthor({
             name: 'Quarantianizo made at discord.gg/scriptspace by script.agi',
-            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&'
+            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
         })
         .setTitle('✗ 𖹭 **Technical Specifications**')
         .setDescription(`**Total Commands:** ${totalCommands} • **Owner/Admin Channel Only**\n\n` +
@@ -3750,10 +3750,10 @@ function createHelpCard9() {
             `• **Security Level:** Maximum (God-Level)`
         )
         .setThumbnail(client.user.displayAvatarURL({ dynamic: true, size: 256 }))
-        .setImage('https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&')
+        .setImage('https://cdn.discordapp.com/attachments/1438520973300338871/1448547327391301812/9txn4scpknrmc0cv0hyrw1bnsg_result_-ezgif.com-optimize.gif?ex=693ba853&is=693a56d3&hm=b1c7a86e8ca4661bb40b26a1d17733d2e71426c6fd66d4df47bd287ef0542ac2&')
         .setFooter({
             text: 'Card 9/11 • Technical Specifications',
-            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&'
+            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
         })
         .setTimestamp();
 
@@ -3768,7 +3768,7 @@ function createHelpCard10() {
         .setColor('#C8A2C8')
         .setAuthor({
             name: 'Quarantianizo made at discord.gg/scriptspace by script.agi',
-            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&'
+            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
         })
         .setTitle('✗ 𖹭 **Developer Information**')
         .setDescription(`**Total Commands:** ${totalCommands} • **Owner/Admin Channel Only**\n\n` +
@@ -3797,10 +3797,10 @@ function createHelpCard10() {
             `Powered by advanced artificial intelligence and cutting-edge security protocols.`
         )
         .setThumbnail(client.user.displayAvatarURL({ dynamic: true, size: 256 }))
-        .setImage('https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&')
+        .setImage('https://cdn.discordapp.com/attachments/1438520973300338871/1448547327391301812/9txn4scpknrmc0cv0hyrw1bnsg_result_-ezgif.com-optimize.gif?ex=693ba853&is=693a56d3&hm=b1c7a86e8ca4661bb40b26a1d17733d2e71426c6fd66d4df47bd287ef0542ac2&')
         .setFooter({
             text: 'Card 10/11 • Developer Information & Credits',
-            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&'
+            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
         })
         .setTimestamp();
 
@@ -3815,7 +3815,7 @@ function createHelpCard11() {
         .setColor('#C8A2C8')
         .setAuthor({
             name: 'Quarantianizo made at discord.gg/scriptspace by script.agi',
-            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&'
+            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
         })
         .setTitle('✗ 𖹭 **Ticket Management Systems**')
         .setDescription(`**Total Commands:** ${totalCommands} • **Admin Channel / Authorized Users**\n\n` +
@@ -3862,10 +3862,10 @@ function createHelpCard11() {
             `• User needs: Manage Channels (to create panel)`
         )
         .setThumbnail(client.user.displayAvatarURL({ dynamic: true, size: 256 }))
-        .setImage('https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&')
+        .setImage('https://cdn.discordapp.com/attachments/1438520973300338871/1448547327391301812/9txn4scpknrmc0cv0hyrw1bnsg_result_-ezgif.com-optimize.gif?ex=693ba853&is=693a56d3&hm=b1c7a86e8ca4661bb40b26a1d17733d2e71426c6fd66d4df47bd287ef0542ac2&')
         .setFooter({
             text: 'Card 11/11 • Ticket System',
-            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1439364441492816163/InShot_20251115_124839476.jpg?ex=691a4018&is=6918ee98&hm=66e891ba77134ca48725774137a29bd0aec7ea1442a7840125442f050ace00dc&'
+            iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
         })
         .setTimestamp();
 
