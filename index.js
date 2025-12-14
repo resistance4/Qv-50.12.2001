@@ -3415,7 +3415,7 @@ function createHelpCard1() {
     const totalCommands = getTotalCommandsCount();
 
     const helpEmbed = new EmbedBuilder()
-        .setColor('#C8A2C8')
+        .setColor('#0F0F0F')
         .setAuthor({
             name: 'Quarantianizo made at discord.gg/scriptspace by script',
             iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
@@ -3445,7 +3445,7 @@ function createHelpCard2() {
     const totalCommands = getTotalCommandsCount();
 
     const helpEmbed = new EmbedBuilder()
-        .setColor('#C8A2C8')
+        .setColor('#0F0F0F')
         .setAuthor({
             name: 'Quarantianizo made at discord.gg/scriptspace by script.agi',
             iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
@@ -3482,7 +3482,7 @@ function createHelpCard3() {
     const totalCommands = getTotalCommandsCount();
 
     const helpEmbed = new EmbedBuilder()
-        .setColor('#C8A2C8')
+        .setColor('#0F0F0F')
         .setAuthor({
             name: 'Quarantianizo made at discord.gg/scriptspace by script.agi',
             iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
@@ -3514,7 +3514,7 @@ function createHelpCard4() {
     const totalCommands = getTotalCommandsCount();
 
     const helpEmbed = new EmbedBuilder()
-        .setColor('#C8A2C8')
+        .setColor('#0F0F0F')
         .setAuthor({
             name: 'Quarantianizo made at discord.gg/scriptspace by script.agi',
             iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
@@ -3546,7 +3546,7 @@ function createHelpCard5() {
     const totalCommands = getTotalCommandsCount();
 
     const helpEmbed = new EmbedBuilder()
-        .setColor('#C8A2C8')
+        .setColor('#0F0F0F')
         .setAuthor({
             name: 'Quarantianizo made at discord.gg/scriptspace by script.agi',
             iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
@@ -3584,7 +3584,7 @@ function createHelpCard6() {
     const totalCommands = getTotalCommandsCount();
 
     const helpEmbed = new EmbedBuilder()
-        .setColor('#C8A2C8')
+        .setColor('#0F0F0F')
         .setAuthor({
             name: 'Quarantianizo made at discord.gg/scriptspace by script.agi',
             iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
@@ -3627,7 +3627,7 @@ function createHelpCard7() {
     const totalCommands = getTotalCommandsCount();
 
     const helpEmbed = new EmbedBuilder()
-        .setColor('#C8A2C8')
+        .setColor('#0F0F0F')
         .setAuthor({
             name: 'Quarantianizo made at discord.gg/scriptspace by script.agi',
             iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
@@ -3673,7 +3673,7 @@ function createHelpCard8() {
     const totalCommands = getTotalCommandsCount();
 
     const helpEmbed = new EmbedBuilder()
-        .setColor('#C8A2C8')
+        .setColor('#0F0F0F')
         .setAuthor({
             name: 'Quarantianizo made at discord.gg/scriptspace by script.agi',
             iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
@@ -3720,7 +3720,7 @@ function createHelpCard9() {
     const totalCommands = getTotalCommandsCount();
 
     const helpEmbed = new EmbedBuilder()
-        .setColor('#C8A2C8')
+        .setColor('#0F0F0F)
         .setAuthor({
             name: 'Quarantianizo made at discord.gg/scriptspace by script.agi',
             iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
@@ -3765,7 +3765,7 @@ function createHelpCard10() {
     const totalCommands = getTotalCommandsCount();
 
     const helpEmbed = new EmbedBuilder()
-        .setColor('#C8A2C8')
+        .setColor('#0F0F0F')
         .setAuthor({
             name: 'Quarantianizo made at discord.gg/scriptspace by script.agi',
             iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
@@ -3812,7 +3812,7 @@ function createHelpCard11() {
     const totalCommands = getTotalCommandsCount();
 
     const helpEmbed = new EmbedBuilder()
-        .setColor('#C8A2C8')
+        .setColor('#0F0F0F')
         .setAuthor({
             name: 'Quarantianizo made at discord.gg/scriptspace by script.agi',
             iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
@@ -3970,7 +3970,7 @@ function createCategoryEmbed(category) {
     const currentCategoryInfo = categoryInfo[category] || { name: 'Help Menu', icon: '📋' };
     
     let embed = new EmbedBuilder()
-        .setColor('#C8A2C8')
+        .setColor('#0F0F0F')
         .setAuthor({
             name: 'Quarantianizo made at discord.gg/scriptspace by script.agi',
             iconURL: 'https://cdn.discordapp.com/attachments/1438520973300338871/1448547405271142481/Gemini_Generated_Image_ws15xkws15xkws15.png?ex=693ba866&is=693a56e6&hm=9af2ef7bc5c8a2fc72f1b83920a7fccaae3c70d384b5a9faa50ac9c1fc6a6c6e&'
