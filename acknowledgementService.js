@@ -49,7 +49,7 @@ class AcknowledgementService {
     buildSeparator(type = 'white') {
         const separators = {
             'white': '────────────────────────────────',
-            'extra-thin': '╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌',
+            'extra-thin': '──────────────────────────────',
             'dots': '‧‧‧‧‧‧‧‧‧‧‧‧‧‧‧‧‧‧‧‧‧‧‧‧‧‧‧‧‧‧‧‧‧‧',
             'mini-dash': '﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣',
             'small': '────────────────',
